@@ -1,0 +1,35 @@
+1522829617782	geckodriver	INFO	geckodriver 0.19.1
+1522829617788	geckodriver	INFO	Listening on 127.0.0.1:52650
+1522829620811	mozrunner::runner	INFO	Running command: "E:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\chenyz\\AppData\\Local\\Temp\\rust_mozprofile.s3tAiknzNM5o"
+1522829621599	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\chenyz\AppData\Local\openvr\openvrpaths.vrpath
+[Child 61900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 61900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522829622643	Marionette	INFO	Listening on port 52661
+1522829622850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522829622891	Marionette	DEBUG	Register listener.js for window 4294967297
+1522829622909	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522829622986	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522829622986	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522829625339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.youdao.com/"
+1522829629247	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.youdao.com/"
+Unable to read VR Path Registry from C:\Users\chenyz\AppData\Local\openvr\openvrpaths.vrpath
+[Child 63776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 63776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+r "https://www.baidu.com/"
+1522829614221	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitt&json=1&p=3&sid=1435_21104_20928&req=2&csor=5&pwd=unit&cb=jQuery110208592263843234789_1522829614109&_=1522829614115, line 1: TypeError: jQuery110208592263843234789_1522829614109 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unit&json=1&p=3&sid=1435_21104_20928&req=2&csor=4&pwd=uni&cb=jQuery110208592263843234789_1522829614109&_=1522829614114, line 1: TypeError: jQuery110208592263843234789_1522829614109 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittest&json=1&p=3&sid=1435_21104_20928&req=2&csor=8&pwd=unittes&cb=jQuery110208592263843234789_1522829614109&_=1522829614118, line 1: TypeError: jQuery110208592263843234789_1522829614109 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitte&json=1&p=3&sid=1435_21104_20928&req=2&csor=6&pwd=unitt&cb=jQuery110208592263843234789_1522829614109&_=1522829614116, line 1: TypeError: jQuery110208592263843234789_1522829614109 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittes&json=1&p=3&sid=1435_21104_20928&req=2&csor=7&pwd=unitte&cb=jQuery110208592263843234789_1522829614109&_=1522829614117, line 1: TypeError: jQuery110208592263843234789_1522829614109 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=uni&json=1&p=3&sid=1435_21104_20928&req=2&csor=3&pwd=un&cb=jQuery110208592263843234789_1522829614109&_=1522829614113, line 1: TypeError: jQuery110208592263843234789_1522829614109 is not a function
+1522829614559	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+stener because no navigation has been detected
+	Canceled page load listener because no navigation has been detected
+ad] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\chenyz\AppData\Local\openvr\openvrpaths.vrpath
+1522743721712	geckodriver::marionette	ERROR	Failed to kill browser process
