@@ -22,7 +22,7 @@ def _format_addr(s):
 def send_file(file_new):
     smtpserver = 'smtp.163.com'
     user = 'cyz891354032'
-    password = 'cyz1990123'
+    password = ''
     sender = 'cyz891354032@163.com'
     receiver = ['891354032@qq.com']
     # subject='**自动化测试报告'
