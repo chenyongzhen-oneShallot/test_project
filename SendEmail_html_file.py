@@ -21,10 +21,10 @@ def _format_addr(s):
 ## ==============定义发送附件邮件==========
 def send_file(file_new):
     smtpserver = 'smtp.163.com'
-    user = 'cyz891354032'
+    user = ''
     password = ''
-    sender = 'cyz891354032@163.com'
-    receiver = ['891354032@qq.com']
+    sender = ''
+    receiver = 
     # subject='**自动化测试报告'
     file = open(file_new, 'r').read()
 
@@ -33,8 +33,8 @@ def send_file(file_new):
 
     msg = MIMEMultipart('alternative')
     msg['Subject'] = subject
-    msg['From'] = '臻 <cyz891354032@163.com>'
-    msg['To'] = "迷途小书童_臻 <891354032@qq.com>"
+    msg['From'] = ''
+    msg['To'] = ""
 
     # att=MIMEText(sendfile,"base64","utf-8")
 
